@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alex Chuvara  
-🚀 **Aspiring Front-End Developer** | 🌍 Based in the UK | 🎯 Transitioning from hospitality to tech  
+🚀 ** Front-End Developer** | 🌍 Based in the UK | 🎯 Transitioning from hospitality to tech  
 
 ---
 
