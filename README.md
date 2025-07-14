@@ -14,10 +14,15 @@
 ---
 
 ### 📌 Featured Projects  
-🚧 *Currently updating my portfolio, stay tuned!* 🚧  
-🔹 **[Project 1 - Portfolio Website](#)** (Coming soon)  
-🔹 **[Project 2 - React App with API](#)** (Coming soon)  
-🔹 **[Project 3 - E-commerce UI](#)** (Coming soon)  
+  
+#### 🔹 [💼 Portfolio Website](#)  
+A responsive and minimalistic portfolio built with React and TailwindCSS. Includes project cards, smooth animations, and dark mode.  
+
+#### 🔹 [🛒 Online Store App](https://github.com/alexchuvara/online-store)  
+E-commerce UI with cart functionality, built during a React workshop. Great foundation for future real-world enhancements.  
+
+#### 🔹 [🔍 API Explorer (WIP)](#)  
+Coming soon – an app to fetch and display data from an external API with custom filters and search. 
 
 ---
 
@@ -30,8 +35,8 @@
 ### 📫 Contact Me  
 📩 **Email:** alex.chuvara@gmail.com  
 🔗 **LinkedIn:** [[linkedin.com/in/alexchuvara](https://www.linkedin.com/in/oleksandr-chuvara/)](#)
-🔗 **Portfolio:** *(Coming soon!)*  
+🔗 **Portfolio:** [alex-chuvara.com](#)  
 
 ---
 
-💡 *Currently learning advanced JavaScript & React. Excited to start building real-world projects!* 🚀
+💡 *Currently building React apps and deepening my skills in UI/UX and design systems.*
