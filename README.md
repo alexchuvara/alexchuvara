@@ -34,8 +34,8 @@ Coming soon – an app to fetch and display data from an external API with custo
 
 ### 📫 Contact Me  
 📩 **Email:** alex.chuvara@gmail.com  
-🔗 **LinkedIn:** [[linkedin.com/in/alexchuvara](https://www.linkedin.com/in/oleksandr-chuvara/)](#)
-🔗 **Portfolio:** [alex-chuvara.com](#)  
+🔗 **LinkedIn:** [linkedin.com/in/alexchuvara](https://www.linkedin.com/in/oleksandr-chuvara/)(#)
+🔗 **Portfolio:** [alex-chuvara.com](https://alex-chuvara.com)(#)
 
 ---
 
